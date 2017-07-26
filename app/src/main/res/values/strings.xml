@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AliBehaver</string>
+    <string name="phone">转账</string>
+    <string name="life_recharge">信用卡还款</string>
+    <string name="traffic">充值中心</string>
+    <string name="tick">余额宝</string>
+    <string name="train">蚂蚁借呗</string>
+    <string name="game_recharge">淘票票</string>
+    <string name="gas_recharge">滴滴出行</string>
+    <string name="lottery">城市服务</string>
+    <string name="gongyi">芝麻信用</string>
+    <string name="share_media">火车票机票</string>
+    <string name="credit_payment">共享单车</string>
+</resources>
